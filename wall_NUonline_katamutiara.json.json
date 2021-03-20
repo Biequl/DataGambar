@@ -1,0 +1,105 @@
+{
+
+    "More": [
+        {
+            "id": 1,
+            "judul": "Kata Mutiara",
+            "thumnail": "https://cdn1-production-images-kly.akamaized.net/1UkKA8UOKSkD6bBGONv6CSDqgpU=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2786048/original/088390100_1556014938-Kata_Bijak_dengan_ilustrasi_wanita_sedang_berjalan.jpg",
+            "link": "https://play.google.com/store/apps/details?id=com.forceapps.clipforclapstutorial"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "id_vid": "1",
+            "nama_cat": "Mutiara Hikmah",
+            "judul": "Imam Syafii",
+            "link": "https://img.inews.co.id/files/inews_new/2020/12/20/20__Kata_Mutiara_Cinta1.JPG"
+        },
+        {
+            "id": 2,
+            "id_vid": "2",
+            "nama_cat": "Hadist",
+            "judul": "Bukhari - Muslim",
+            "link": "https://img.inews.co.id/files/inews_new/2020/12/20/20__Kata_Mutiara2.JPG"
+        },
+        {
+            "id": 3,
+            "id_vid": "3",
+            "nama_cat": "Kata Mutiara",
+            "judul": "Abu Na’im, Hilyatul Aulia",
+            "link": "https://img.inews.co.id/files/inews_new/2020/12/20/20__Kata_Mutiara11.JPG"
+        },
+        {
+            "id": 4,
+            "id_vid": "4",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 4",
+            "link": "https://rusuhman.xyz/walltest/4.jpg"
+        },
+        {
+            "id": 5,
+            "id_vid": "5",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 5",
+            "link": "https://rusuhman.xyz/walltest/5.jpg"
+        },
+        {
+            "id": 6,
+            "id_vid": "6",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 6",
+            "link": "https://rusuhman.xyz/walltest/6.jpg"
+        },
+        {
+            "id": 7,
+            "id_vid": "7",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 7",
+            "link": "https://rusuhman.xyz/walltest/7.jpg"
+        },
+        {
+            "id": 8,
+            "id_vid": "8",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 8",
+            "link": "https://rusuhman.xyz/walltest/8.jpg"
+        },
+        {
+            "id": 9,
+            "id_vid": "9",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 9",
+            "link": "https://rusuhman.xyz/walltest/9.jpg"
+        },
+        {
+            "id": 10,
+            "id_vid": "10",
+            "nama_cat": "Monkart",
+            "judul": "Monkart Episode - 10",
+            "link": "https://rusuhman.xyz/walltest/10.jpg"
+        },
+        {
+            "id": 11,
+            "id_vid": "11",
+            "nama_cat": "Monkart",
+            "judul": "Live wallpaper 1",
+            "link": "https://github.com/ViralHud/kikiki/raw/master/fall1.gif"
+        },
+        {
+            "id": 13,
+            "id_vid": "13",
+            "nama_cat": "Monkart",
+            "judul": "naruto",
+            "link": "https://rusuhman.xyz/walltest/13.gif"
+        },
+        {
+            "id": 13,
+            "id_vid": "14",
+            "nama_cat": "Monkart",
+            "judul": "naruto",
+            "link": "https://rusuhman.xyz/walltest/14.gif"
+        }
+    ]
+
+}
