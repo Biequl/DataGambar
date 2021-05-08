@@ -217,49 +217,270 @@
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"https://i.pinimg.com/originals/41/e1/c6/41e1c67ab9758c2e7dd634651e5141da.jpg"
- },
- {
+{
+
+    "More": [
+        {
+            "id": 1,
+            "judul": "Kata Mutiara",
+            "thumnail": "https://cdn1-production-images-kly.akamaized.net/1UkKA8UOKSkD6bBGONv6CSDqgpU=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2786048/original/088390100_1556014938-Kata_Bijak_dengan_ilustrasi_wanita_sedang_berjalan.jpg",
+            "link": "https://play.google.com/store/apps/details?id=id.walpaper.katabijak.mbahmaimunzubair"
+        }
+    ],
+    "Data": [
+	{
+	 "id":"36",
+	 "id_vid":"36",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/4cbmp44sv23vab5r9mfbmlboil/w1024.jpg"
+	},
+	{
+	 "id":"35",
+	 "id_vid":"35",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.shopify.com/s/files/1/2829/0660/products/Cottageville-First-Floor_M_1024x1024.jpg"
+	},
+	{
+	 "id":"34",
+	 "id_vid":"34",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/9961bdfb87aeac74b2b9ce73a67c9fb33945e932472d937775003ba05c7d2dd5/w1024.jpg"
+	},
+	{
+	 "id":"33",
+	 "id_vid":"33",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/gokdlo507t1oksfm5vo1er9j0q/w1024.jpg"
+	},
+	{
+	 "id":"32",
+	 "id_vid":"32",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://honka.com/wp-content/uploads/2020/03/huomen-132-1a_honkarakenne.jpg"
+	},
+	{
+	 "id":"31",
+	 "id_vid":"31",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/gb723f322rko6hdn72h573q14f/w1024.jpg"
+	},
+	{
+	 "id":"30",
+	 "id_vid":"30",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/np35ghk9t99e00q6gsfmedbjec/w1024.jpg"
+	},
+	{
+	 "id":"29",
+	 "id_vid":"29",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/4quljifbt6b22n7gaffs0b8020/w1024.jpg"
+	},
+	{
+	 "id":"28",
+	 "id_vid":"28",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/h1i9faicrufqs2u8t2j7vd7h4h/w1024.jpg"
+	},
+	{
+	 "id":"27",
+	 "id_vid":"27",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/product/v1fr5vf1k0f7rbof5vfc9fq3uh/w1024.JPG"
+	}, 
+	{
+	 "id":"26",
+	 "id_vid":"26",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/content/h1icpo0dlockes73h0h6ci0a0e/w575.jpg"
+	},
+	{
+	 "id":"25",
+	 "id_vid":"25",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote19.webp"
+	},
+	{
+	 "id":"24",
+	 "id_vid":"24",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote18.jpg"
+	},
+	{
+	 "id":"23",
+	 "id_vid":"23",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/content/i1vl7mof2kf3b2i57920dft9dj/w575.jpg"
+	},
+	{
+	 "id":"22",
+	 "id_vid":"22",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://cdn.houseplansservices.com/content/gbr6sun93fvj8r7lqvd5jr3v2f/w575.jpg"
+	},
+	{
+	 "id":"21",
+	 "id_vid":"21",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https:https://i.pinimg.com/originals/e3/86/11/e38611ff69fb1d47fb9e2ce5d9aef382.jpg"
+	},
+	{
+	 "id":"20",
+	 "id_vid":"20",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://i.pinimg.com/originals/66/25/d1/6625d1b5203e1ac47317ce895c843ca1.png"
+	},
+	{
+	 "id":"19",
+	 "id_vid":"19",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote17.webp"
+	},
+	{
+	 "id":"18",
+	 "id_vid":"18",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote16.webp"
+	},
+	{
+	 "id":"17",
+	 "id_vid":"17",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://i.pinimg.com/originals/28/b7/5a/28b75a26f39bb3188a64989404321dd0.jpg"
+	},
+	{
+	 "id":"16",
+	 "id_vid":"16",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://albabbarrosa.com/wp-content/uploads/2019/12/gus-baha-quote.png"
+	},
+	{
+	 "id":"15",
+	 "id_vid":"15",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote15.webp"
+	},
+	{
+	 "id":"14",
+	 "id_vid":"14",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote14.webp"
+	},
+	{
+	 "id":"13",
+	 "id_vid":"13",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote13.jpg"
+	},
+	{
+	 "id":"12",
+	 "id_vid":"12",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote12.webp"
+	},
+	{
+	 "id":"11",
+	 "id_vid":"11",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote11.webp"
+	},
+	{
+	 "id":"10",
+	 "id_vid":"10",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"file:///android_asset/quote10.webp"
+	},
+	{
+	 "id":"9",
+	 "id_vid":"9",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://i.pinimg.com/originals/91/a1/63/91a163a349ea3a5135bb46dcf5dcdd98.jpg"
+	},
+	{
+	 "id":"8",
+	 "id_vid":"8",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://i.pinimg.com/originals/ab/cd/f1/abcdf1cbaa6d143d2132b3fdd6b1d3cd.jpg"
+	},
+	{
+	 "id":"7",
+	 "id_vid":"7",
+	 "nama_cat":"House & Home",
+	 "judul":"website",
+	 "link":"https://i.pinimg.com/originals/41/e1/c6/41e1c67ab9758c2e7dd634651e5141da.jpg"
+	},
+	{
 	 "id":"6",
 	 "id_vid":"6",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"https://cdnimages.familyhomeplans.com/plans/58585/58585-1l.gif"
- },
- {
+	},
+	{
 	 "id":"5",
 	 "id_vid":"5",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"file:///android_asset/quote5.png"
- },
- {
+	},
+	{
 	 "id":"4",
 	 "id_vid":"4",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"file:///android_asset/quote4.webp"
- },
- {
+	},
+	{
 	 "id":"3",
 	 "id_vid":"3",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"file:///android_asset/quote3.webp"
- },
- {
+	},
+	{
 	 "id":"2",
 	 "id_vid":"2",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"file:///android_asset/quote2.webp"
- },
- {
+	},
+	{
 	 "id":"1",
 	 "id_vid":"1",
 	 "nama_cat":"House & Home",
 	 "judul":"website",
 	 "link":"file:///android_asset/quote1.png"
- }
+	} 
+ 
     ]
 
 }
