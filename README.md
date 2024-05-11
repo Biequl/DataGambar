@@ -1,7 +1,8 @@
 DATA GAMBAR PREVIEW LANDING PAGE
 
 # tampilan Landing page
-Gambar 1
+<p>Gambar 1</p>
+<p>
 <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%201.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 Gambar 2
 <img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%202.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
