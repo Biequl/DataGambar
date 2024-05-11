@@ -1,10 +1,9 @@
 DATA GAMBAR PREVIEW LANDING PAGE
 
 # tampilan Landing page
-<figure>
-  <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%201.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
-  <figcaption>Gambar 1 </figcaption>
-</figure>
+<b align="top">Gambar 1</b>
+<img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%201.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
+Gambar 2
 <img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%202.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 <img align="left"  src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%203.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 <img align="right"src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%204.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:70%;">
