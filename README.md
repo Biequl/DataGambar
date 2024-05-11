@@ -4,9 +4,9 @@ DATA GAMBAR PREVIEW LANDING PAGE
 <p>Gambar 1</p>
 <p>
 <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%201.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
+<img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%202.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 <p>Gambar 2</p>
 <p>
-<img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%202.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 <img align="left"  src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%203.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:30%;">
 <img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%204.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:70%;">
 <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%205.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:70%;">
