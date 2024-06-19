@@ -14,3 +14,4 @@ DATA GAMBAR PREVIEW LANDING PAGE
 <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%209.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:100%;">
 <img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%2010.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:100%;">
 <img align="left" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%2011.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:100%;">
+<img align="right" src="https://raw.githubusercontent.com/Biequl/DataGambar/main/Template%2012.jpg" data-canonical-src="https://beetechmedia.my.id" style="max-width:100%;">
